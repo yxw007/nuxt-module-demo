@@ -1,5 +1,5 @@
 {
-  "name": "my-module",
+  "name": "nuxt-my-module",
   "version": "0.0.1",
   "description": "My new Nuxt module",
   "repository": "your-org/my-module",
